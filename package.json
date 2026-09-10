@@ -1,0 +1,14 @@
+{
+  "name": "keal-virek-bot",
+  "version": "1.0.0",
+  "description": "WhatsApp moderation and utility bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.12",
+    "axios": "^1.7.9",
+    "pino": "^9.6.0"
+  }
+}
